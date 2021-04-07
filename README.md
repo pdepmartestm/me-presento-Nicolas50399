@@ -4,7 +4,7 @@ Hola! Mi nombre es Nicolás, tengo 22 años y vivo en Villa Santa Rita, Capital 
 
 Estudio la carrera Ingeniería en Sistemas desde 2018
 
-![Imagen]()
+![Imagen](imgpp.jpeg)
 
 # Sobre mi:
 
