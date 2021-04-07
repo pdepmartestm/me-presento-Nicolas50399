@@ -2,7 +2,7 @@
 
 Hola! Mi nombre es Nicolás, tengo 22 años y vivo en Villa Santa Rita, Capital Federal.
 
-Estudio la carrera Ingeniería en Sistemas desde 2018
+Estudio la carrera Ingeniería en Sistemas desde 2018, mi legajo es 168252-0
 
 <img src="imgpp.jpeg" width=400>
 
